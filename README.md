@@ -17,3 +17,9 @@ Neste trabalho elaboramos um back-end utilizando o MongoDB com o TypeScript, apl
 ## Projeto 4 - API_postgres
 Parecido com o trabalho em MongoDB, agora neste estamos utilizando o Postgres aonde também fazemos um CRUD e
 também usamos recursos de transpilação.
+
+
+# Vídeo apresentando os projetos
+
+https://github.com/user-attachments/assets/e34a1456-826c-40b8-8688-b2ac9feeae05
+
